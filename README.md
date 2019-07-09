@@ -1,10 +1,14 @@
 # DL4Sci School TensorFlow tutorials
 
-These notebooks were downloaded from https://www.tensorflow.org/beta
+This repository contains the hands-on introductory deep learning tutorial examples for the
+Deep Learning for Science school at Berkeley Lab: https://dl4sci-school.lbl.gov/
+
+These jupyter notebooks come from the official TensorFlow 2.0 tutorials at
+https://www.tensorflow.org/beta.
+
+We made minor updates so attendees could run them on Cori GPU without modification.
 
 ## Getting setup on Cori GPU
-
-More instructions coming soon...
 
 Open https://jupyter-dl.nersc.gov/ and log in with your training account
 credentials.
@@ -26,14 +30,22 @@ You can test that things are working on a Cori GPU node by running the
 ## Running on Collab
 
 If you have issues with Cori GPU or if you simply prefer you can run these
-exmaples in the cloud on Google's Collab service. Simply go to the TF webpage
-for the specific example and click `Run in Google Collab`. Note that you may
-not get access to a GPU on Collab, but the TF tutorials are designed to execute
-quickly regardless.
+examples in the cloud on Google's Collab service. Simply go to the TF webpage
+for the specific example (links below) and click `Run in Google Collab`.
+Note that you may not get access to a GPU on Collab, but the TF tutorials are
+designed to execute quickly regardless.
 
 ## Introductory hands-on notebooks
 
-More details coming soon...
+For a good introduction to implementing models in TensorFlow using the recommended
+Keras API, we recommend working through at least the first few examples below.
+
+The overfitting/underfitting and save/restore examples also demonstrate very
+practical use-cases that you may want to work through.
+
+Finally, depending on time, you can also try out the advanced examples.
+
+For each example, see if you can successfully modify the code and take note of how results change.
 
 ### Basic classification
 
