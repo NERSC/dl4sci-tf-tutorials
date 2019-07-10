@@ -19,7 +19,7 @@ the `Terminal` button under `Other`.
 Using the terminal, clone this repository to download all of the tutorial
 notebooks:
 
-`git clone https://github.com/sparticlesteve/dl4sci-tf-tutorials.git`
+`git clone https://github.com/NERSC/dl4sci-tf-tutorials.git`
 
 Now you can use the Jupyter file browser to navigate the repository and launch
 notebooks.
