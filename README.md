@@ -102,3 +102,15 @@ https://www.tensorflow.org/beta/tutorials/generative/cvae
 [images.ipynb](images.ipynb)
 
 https://www.tensorflow.org/beta/tutorials/load_data/images
+
+### Transformer
+
+[transformer.ipynb](transformer.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/text/transformer
+
+### Image captioning
+
+[image_captioning.ipynb](image_captioning.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/text/image_captioning
