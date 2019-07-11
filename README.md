@@ -114,3 +114,9 @@ https://www.tensorflow.org/beta/tutorials/text/transformer
 [image_captioning.ipynb](image_captioning.ipynb)
 
 https://www.tensorflow.org/beta/tutorials/text/image_captioning
+
+## TensorBoard
+
+If you'd like to try TensorBoard in Jupyter, you can take a look at the example
+code in [test_tensorboard.ipynb](test_tensorboard.ipynb). See if you can get
+TensorBoard working with one of the example notebooks!
