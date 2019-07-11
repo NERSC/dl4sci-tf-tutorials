@@ -43,7 +43,8 @@ Keras API, we recommend working through at least the first few examples below.
 The overfitting/underfitting and save/restore examples also demonstrate very
 practical use-cases that you may want to work through.
 
-Finally, depending on time, you can also try out the advanced examples.
+Finally, depending on time, you can also try out the advanced examples according
+to your preference.
 
 For each example, see if you can successfully modify the code and take note of how results change.
 
@@ -52,6 +53,16 @@ For each example, see if you can successfully modify the code and take note of h
 [basic_classification.ipynb](basic_classification.ipynb)
 
 https://www.tensorflow.org/beta/tutorials/keras/basic_classification
+
+Quiz questions:
+1. Why did we divide the image data by 255?
+2. Which activation function did we use for our hidden layer of the network? Could we have used a different one?
+3. Which activation function did we use for the output layer of the network? Could we have used a different one?
+
+Challenges:
+1. Try to modify the network architecture by adding/removing layers, changing the size of the layers, etc.
+2. Try changing the optimizer algorithm; can you figure out how to modify the default *learning rate*?
+3. See if you can improve the test set accuracy. How good of a model can you train?
 
 ### Classify structured data
 
