@@ -64,6 +64,24 @@ Challenges:
 2. Try changing the optimizer algorithm; can you figure out how to modify the default *learning rate*?
 3. See if you can improve the test set accuracy. How good of a model can you train?
 
+
+### Convolutional neural networks
+
+[intro_to_cnns.ipynb](intro_to_cnns.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/images/intro_to_cnns
+
+This example is similar to the previous one but demonstrates how to setup CNNs so is valuable to work through as well.
+
+Quiz questons:
+1. What benefit do we get from using max-pooling in our network?
+2. Why do we add the dense layers only at the end?
+3. Does the model converge with the specified settings?
+
+Challenges:
+1. Try to modify the network architecture: the number of layers, the number of filters in the layers, the sizes of the filters, etc.
+2. What's the best test accuracy you can achieve?
+
 ### Classify structured data
 
 [feature_columns.ipynb](feature_columns.ipynb)
@@ -74,17 +92,19 @@ Quiz questions:
 1. This tutorial is just meant to teach you some mechanics and doesn't give an impressive result. What are some of the reasons why this model under-performs?
 2. What are the situations in which you should consider using embedding or hashed-feature columns? Can you think of a good use-case for bucketized features?
 
-### Convolutional neural networks
-
-[intro_to_cnns.ipynb](intro_to_cnns.ipynb)
-
-https://www.tensorflow.org/beta/tutorials/images/intro_to_cnns
-
 ### Overfitting and underfitting
 
 [overfit_and_underfit.ipynb](overfit_and_underfit.ipynb)
 
 https://www.tensorflow.org/beta/tutorials/keras/overfit_and_underfit
+
+Quiz questions:
+1. Try to summarize how you diagnose under- and overfitting.
+2. If your model is overfitting, what is the most ideal way to improve it?
+3. How can you fix under-fitting?
+
+Challenge:
+1. All the models in this example are overfitting. Can you build a model that underfits?
 
 ### Saving and restoring models
 
