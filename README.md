@@ -8,6 +8,13 @@ https://www.tensorflow.org/beta.
 
 We made minor updates so attendees could run them on Cori GPU without modification.
 
+## Contents
+
+* [Setup on Cori GPU](https://github.com/NERSC/dl4sci-tf-tutorials#getting-setup-on-cori-gpu)
+* [Setup on Collab](https://github.com/NERSC/dl4sci-tf-tutorials#running-on-collab)
+* [Introductory examples](https://github.com/NERSC/dl4sci-tf-tutorials#introductory-hands-on-notebooks)
+* [Advanced examples](https://github.com/NERSC/dl4sci-tf-tutorials#optional-advanced-notebooks)
+
 ## Getting setup on Cori GPU
 
 Open https://jupyter-dl.nersc.gov/ and log in with your training account
