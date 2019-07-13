@@ -70,6 +70,10 @@ Challenges:
 
 https://www.tensorflow.org/beta/tutorials/keras/feature_columns
 
+Quiz questions:
+1. This tutorial is just meant to teach you some mechanics and doesn't give an impressive result. What are some of the reasons why this model under-performs?
+2. What are the situations in which you should consider using embedding or hashed-feature columns? Can you think of a good use-case for bucketized features?
+
 ### Convolutional neural networks
 
 [intro_to_cnns.ipynb](intro_to_cnns.ipynb)
