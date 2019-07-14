@@ -157,6 +157,8 @@ https://www.tensorflow.org/beta/tutorials/text/transformer
 
 https://www.tensorflow.org/beta/tutorials/text/image_captioning
 
+This example takes quite a while to run. It uses a fairly slow feature caching method, and the model training has poor GPU utilization and takes a while.
+
 ## TensorBoard
 
 If you'd like to try TensorBoard in Jupyter, you can take a look at the example
