@@ -127,25 +127,34 @@ https://www.tensorflow.org/beta/tutorials/keras/save_and_restore_models
 
 https://www.tensorflow.org/beta/tutorials/eager/custom_layers
 
-### DCGAN
-
-[dcgan.ipynb](dcgan.ipynb)
-
-https://www.tensorflow.org/beta/tutorials/generative/dcgan
-
-### VAE
-
-[cvae.ipynb](cvae.ipynb)
-
-https://www.tensorflow.org/beta/tutorials/generative/cvae
-
 ### Loading and preprocessing images
 
 [images.ipynb](images.ipynb)
 
 https://www.tensorflow.org/beta/tutorials/load_data/images
 
-### Transformer
+### Deep Convolutional Generative Adversarial Networks (DCGAN)
+
+[dcgan.ipynb](dcgan.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/generative/dcgan
+
+### Variational auto-encoders (VAE)
+
+[cvae.ipynb](cvae.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/generative/cvae
+
+### Image to image translation with CycleGAN
+
+[cyclegan.ipynb](cyclegan.ipynb)
+
+https://www.tensorflow.org/beta/tutorials/generative/cyclegan
+
+**Note**: I didn't have time to install tensorflow-examples, so this is done in the notebook.
+You will have to restart the kernel after running the `pip install` cell to pick up the new library.
+
+### Transformers for language understanding
 
 [transformer.ipynb](transformer.ipynb)
 
