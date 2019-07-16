@@ -89,6 +89,7 @@ Challenges:
 1. Try to modify the network architecture: the number of layers, the number of filters in the layers, the sizes of the filters, etc.
 2. What's the best test accuracy you can achieve?
 3. See if you can add data augmentation like the examples here: https://keras.io/preprocessing/image/
+4. Try to add BatchNormalization to the model: https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras/layers/BatchNormalization
 
 ### Classify structured data
 
